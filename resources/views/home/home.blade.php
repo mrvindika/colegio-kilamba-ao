@@ -23,6 +23,7 @@
                                     <p>
                                         <i class="icon-sm fas fa-chalkboard-teacher mr-2"></i>
                                         Docentes
+                                        {{-- {{ now()->translatedFormat('l, d \d\e F \d\e Y') }} --}}
                                     </p>
                                     <h2>56</h2>
                                     <label class="badge badge-outline-danger badge-pill"> Reduziu 30%</label>
